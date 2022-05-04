@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Subrata2402
+- 👋 Hi, I’m Subrata
 - 👀 I’m interested in Python, HTML, Java, CSS, C, C++
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
