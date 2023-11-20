@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning to develop **Web Application**
 
-- 💞️ I’m looking to collaborate on a **Project**
+- 💞️ I’m looking to collaborate on a **Web Development Project**
 
 - 👨‍💻 All of my projects are available at **https://github.com/Subrata2402**
 
