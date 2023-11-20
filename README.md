@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Subrata<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Backend to make a web app<br>💞️ I’m looking to collaborate on a project<br>📫 How to reach me ...
+👋 Hi, I’m Subrata<br>👀 I’m interested in Web Application<br>🌱 I’m currently learning to develop a web app<br>💞️ I’m looking to collaborate on a project<br>📫 How to reach me ...
 
 
 ## 🌐 Socials:
