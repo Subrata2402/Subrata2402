@@ -12,9 +12,9 @@
 
 - 💞️ I’m looking to collaborate on a **Project**
 
-- 👨‍💻 All of my projects are available at https://github.com/Subrata2402
+- 👨‍💻 All of my projects are available at **https://github.com/Subrata2402**
 
-- 📫 How to reach me subrata3250das@gmail.com
+- 📫 How to reach me **subrata3250das@gmail.com**
 
 
 ## 🌐 Socials:
