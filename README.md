@@ -6,9 +6,9 @@
 
 - 👋 Hi, I’m **Subrata**
 
-- 👀 I’m interested in **Web Application**
+- 👀 I’m interested in **Web & Android Application**
 
-- 🌱 I’m currently learning to develop **Web Application**
+- 🌱 I’m currently learning to develop **Web & Android Application**
 
 - 💞️ I’m looking to collaborate on a **Web Development Project**
 
@@ -26,12 +26,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Subrata2402&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrata2402&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-readme-stats.vercel.app/api?username=Subrata2402&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=Subrata2402&theme=dark&no-frame=false&no-bg=false&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=Subrata2402&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Subrata2402&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Subrata2402&limit=5&theme=dark&combine_all_yearly_contributions=true)
